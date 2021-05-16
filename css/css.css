@@ -8,13 +8,13 @@ section{
 
 }
 .section{
-    background-image: url(../img/FOTO2.jpg);
+    background-image: url(../img/gif.gif);
 }
 .nav{
     background-color: #CFD8DC;
 }
 .caja_text{
-    background-color:  #CFD8DC;
+    background-color:  #cfd8dc;
     width: 1050px;
     height: 500px;
     float: left;
@@ -22,7 +22,6 @@ section{
     margin-left:125px;
     border: 1px solid darkblue;
     background-position:center; 
-    background-image: url(../img/FOTO7.jpg);
     color: black;
 }
 h1{
