@@ -90,13 +90,6 @@ span{
     font-size: 18px; 
     margin-left: 900PX;
 }
-.bg-1{
-    font-size: 46px;
-   padding-top: 15px;
-    width: 300px;
-    text-align: center;
-    height: 300px;
-}
 .t-stroke {
   color: transparent;
   -moz-text-stroke-width: 2px;
