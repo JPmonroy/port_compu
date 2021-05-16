@@ -1,0 +1,112 @@
+.section{
+    background-color: #FFFFFF;
+    width: 1300px;
+    margin: auto auto;
+    height: 650px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.m1{
+    color: #ffffff;
+    font-family: 'Pangolin', cursive;
+    margin-right: 900px;
+    
+}
+.titulo2{
+	color: #ffffff;
+	font-family: 'Pangolin', cursive;
+    text-align: left;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-left: 545px;
+    
+}
+h4{
+    color: #ffffff;
+    font-size: 30px;
+}
+.section{
+    background-image: url(../img/FOTO2.jpg);
+}
+.ct1{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: black;
+    background-position:center;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 40px;
+
+}
+.Calculadora{
+    width: 350px;
+    height: 400px;
+}
+.ct2{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: black;
+    background-position:center;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+.proyecto1{
+    width: 300px;
+    height: 125px;
+}
+.proyecto2{
+    width: 300px;
+    height: 125px;
+}
+.proyecto3{
+    width: 300px;
+    height: 125px;
+}
+.ct3{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: black;
+    background-position:center;
+    margin-left: 15px;
+    margin-right: 0px;
+    margin-top: 40px;
+
+}
+.click{
+    width: 350px;
+    height: 400px;
+}
+img{
+    justify-content: center;
+    margin-top: 20px;
+    width: 139px;
+    height: 140px;
+
+}
+.tf{
+   width: 150px;
+   height: 100px;
+   margin-top: 55px;
+}
+   
+.sl{
+   justify-content: center;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+}
+p1{
+   font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 35px;
+    margin-left: 5px;
+    margin-top: 130px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}    
