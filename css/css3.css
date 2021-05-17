@@ -54,13 +54,13 @@ ol{
     background-color: rgba(0, 0, 0, 0.747);
 }
 .cajaTarjeta p1{
-    color: black;
+    color:#ffffff;
     font-size: 15px;
     font-family: 'Pangolin', cursive;
     
 }
 span{
-    color: black;
+    color:#ffffff;
     font-size: 15px;
     font-family: 'Pangolin', cursive;
 }
@@ -85,7 +85,7 @@ span{
 }
 .link{
     text-align: right;
-    color: dimgray;
+    color: #ffffff;
     font-family: 'Pangolin', cursive;
     font-size: 18px; 
     margin-left: 900PX;
@@ -94,9 +94,10 @@ span{
   color: transparent;
   -moz-text-stroke-width: 2px;
   -webkit-text-stroke-width: 2px;
-  -moz-text-stroke-color: #000000;
-  -webkit-text-stroke-color: black;
+  -moz-text-stroke-color:#ffffff;
+  -webkit-text-stroke-color:#ffffff;
+  font-size: 45px;
 }
 .t-shadow {
-  text-shadow: 8px 8px #1C2833;
+  text-shadow: 8px 8px #0b85f8;
 }
