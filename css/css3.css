@@ -51,7 +51,7 @@ ol{
     
 }
 .cajaTarjeta{
-    background-image: url(../img/FOTO5.png);
+    background-color: rgba(0, 0, 0, 0.747);
 }
 .cajaTarjeta p1{
     color: black;
@@ -72,14 +72,14 @@ span{
 }
 .cajaInformación h1{
     text-align: left;
-    color: black;
+    color: #ffffff;
     font-family: 'Pangolin', cursive;
     font-size: 50px;
     margin-top: 3px;
 }
 .cajaInformación p{
     text-align: left;
-    color: dimgray;
+    color: #ffffff;
     font-family: 'Pangolin', cursive;
     font-size: 18px;
 }
